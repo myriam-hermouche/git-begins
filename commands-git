@@ -1,0 +1,7 @@
+- Cloner un repo : git clone
+- Les 3 commandes de push : 
+git add . 
+git commit -m nomdufichier
+git remote add nomdurepertoire https://github.com/nomutilisateur/nomdurepertoire.git
+git push nomdufichier
+git pull nomdudossier nomdelabranche
