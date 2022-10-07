@@ -4,4 +4,4 @@ git add .
 git commit -m nomdufichier
 git remote add nomdurepertoire https://github.com/nomutilisateur/nomdurepertoire.git
 git push nomdufichier
-git pull nomdudossier nomdelabranche
+- pull : git pull nomdudossier nomdelabranche
